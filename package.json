@@ -1,19 +1,14 @@
 {
-  "name": "tp03",
+  "name": "tpnodeexpress",
   "version": "1.0.0",
+  "description": "tpnoderosemblatdelafuente",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "index1": "node ./src/index1.js",
-    "index2": "node ./src/index2.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ezequiel Rosemblat",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
-  
 }
